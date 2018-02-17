@@ -1,0 +1,7 @@
+{
+  "name": "ToDoPackage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kenny <claudio.h@ilnet.ch>",
+  "license": "MIT"
+}
